@@ -52,14 +52,6 @@ Follow the prompts to:
 
 If the chosen room is available, the script will display the booking amount and generate a QR code for payment.
 
-## Notes for Recruiters
-
-This project showcases the ability to build a functional command-line booking flow with:
-- clear user interaction
-- inventory management
-- dynamic payment generation
-- integration with third-party libraries
-
 ### Potential Improvements
 
 - Add full input validation for email, phone number, and room preference
